@@ -1,0 +1,28 @@
+{
+  "name": "koa-parse-cookies",
+  "version": "1.0.0",
+  "subdomain": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathRobin/koa-parse-cookies.git"
+  },
+  "domains": [],
+  "engines": {
+    "node": "5.x",
+    "npm": "3.x"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/MathRobin/koa-parse-cookies/issues"
+  },
+  "homepage": "https://github.com/MathRobin/koa-parse-cookies#readme",
+  "description": "Parse cookies for Koa.js app",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "koa"
+  ],
+  "author": "MathRobin <mthrobin@gmail.com> (http://www.matosmaison.fr)",
+  "license": "WTFPL"
+}
